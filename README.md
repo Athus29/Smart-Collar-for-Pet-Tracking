@@ -1,6 +1,7 @@
 # Smart-Collar-for-Pet-Tracking
 
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-orange)
+![Embedded C](https://img.shields.io/badge/Embedded--C-Programming-yellow)
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-green)
 ![IoT](https://img.shields.io/badge/IoT-Dashboard-brightgreen)
 
